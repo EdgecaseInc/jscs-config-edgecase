@@ -1,0 +1,8 @@
+{
+    // preset
+    "preset": "google",
+
+    // overrides
+    "disallowMultipleVarDecl": false,
+    "maximumLineLength": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jscs-preset-edgecase",
+  "version": "1.0.0",
+  "description": "JSCS preset for Edgecase",
+  "main": "./jscs.json",
+  "license": "MIT",
+  "keywords": [
+    "jscs-preset",
+    "edgecase"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EdgecaseInc/jscs-preset-edgecase.git"
+  }
+}
